@@ -15,4 +15,6 @@ p {
 
 ul li {
     background-color: blue;
+    text-decoration: none;
+    color: white;
 }
