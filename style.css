@@ -2,6 +2,10 @@ body {
     background-color: lightgreen;
 }
 
+.container {
+    border: 1px dashed salmon;
+}
+
 p {
     font-size: 2rem;
     font-weight: bold;
