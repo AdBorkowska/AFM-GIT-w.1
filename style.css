@@ -4,6 +4,7 @@ body {
 
 .container {
     border: 1px dashed salmon;
+    background-color: lightyellow;
 }
 
 p {
