@@ -5,10 +5,10 @@ body {
 p {
     font-size: 2rem;
     font-weight: bold;
-    color: red;
+    color: green;
+    border: 2px soid darkgrey;
 }
 
 ul li {
     background-color: blue;
-    text-transform: uppercase;
 }
